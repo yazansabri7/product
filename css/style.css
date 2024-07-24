@@ -1,0 +1,85 @@
+*{
+   margin: 0;
+}
+h2{
+   margin-top: 30px;
+   margin-bottom: 20px;
+}
+.ss{
+   width:100%;
+   
+   
+}
+
+.products{
+   background-color: white;
+   margin-left: 80px;
+   
+}
+.product-item{
+   background-color: white;
+   margin-right: 10px;
+   margin-top: 10px;
+   border: 1px solid gray ;
+   float: left;
+   width: 24%;
+}
+.product-item img{
+   width:95%;
+   padding-top: 5px;
+   padding-left: 10px;
+   padding-right: 5px;
+   
+}
+.clear{
+   clear: both;
+}
+ p{
+   color: rgb(0, 255, 21);
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+
+}
+.product-item h3{
+   margin-top: 7px;
+   margin-left: 10px;
+
+
+}
+.rr{
+   float: left;
+}
+.del{
+   color: red;
+   text-decoration: line-through;
+   
+}
+.product-item button{
+   margin-top: 10px;
+   background-color: rgb(13, 82, 255);
+   color: white;
+   border: 2px solid rgb(13, 82, 255) ;
+   width: 82%;
+   margin-left: 5px;
+   margin-right: 7px;
+   padding: 13px 30px;
+   margin-bottom: 10px;
+   
+   
+}
+.fa-heart{
+   text-align: center;
+   background-color: white;
+   border: 2px solid rgb(13, 82, 255) ;
+   padding: 13px 12px;
+   width: 5%;
+  color: rgb(13, 82, 255);
+  margin-bottom: 10px;
+}
+.gr{
+   color: gray;
+   width: 60%;
+   margin-top: 10px;
+   margin-left: 10px;
+}
